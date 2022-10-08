@@ -1,2 +1,2 @@
-# Manifesto
-The Bologna Manifesto
+# The Bologna Manifesto
+Bologna
