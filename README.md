@@ -1,0 +1,2 @@
+# Manifesto
+The Bologna Manifesto
